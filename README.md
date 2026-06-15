@@ -1,45 +1,48 @@
-<h1 align="center">Hi there, I'm Muhammad Jawad Muzafar Khan 👋</h1>
+# Muhammad Jawad Muzafar Khan
 
-<p align="center">
-  <em>Data Science & AI/ML Enthusiast 🤖 | Python Developer | Aspiring Data Scientist</em>
-</p>
+**Data Science & AI/ML Engineer | Python Developer | Machine Learning Specialist**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-muzafar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jawad_muzafar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawad.muzafar@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jawadmuzafar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-muzafar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jawad-Muzafar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itxjawad56)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadalmani11@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🔭 Currently learning **Data Science & Machine Learning**
-- 🌱 Exploring **Artificial Intelligence** and its real-world applications
-- 💡 Passionate about turning data into meaningful insights
-- 🎯 Goal: Building intelligent systems that solve real-world problems
-- 📍 Based in Pakistan 🇵🇰
-- 📚 Always eager to learn and collaborate on interesting projects
+Passionate Data Scientist and Machine Learning Engineer with a strong foundation in Python development and AI/ML technologies. I specialize in developing data-driven solutions and building intelligent systems that solve complex real-world problems. Currently focused on advancing expertise in machine learning algorithms, predictive analytics, and artificial intelligence applications.
+
+**Key Interests:**
+- Machine Learning & Deep Learning
+- Data Analysis & Visualization
+- Artificial Intelligence Applications
+- Open-Source Contribution
+
+**Location:** Pakistan 🇵🇰
 
 ---
 
-## 🚀 Tech Stack
+## Technical Proficiency
 
-### Languages & Libraries
+**Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Data Science & ML Libraries:**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Tools & Platforms
+**Development Tools:**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -55,37 +58,32 @@
 
 ---
 
-## 🎯 What I'm Working On
+## Current Focus
 
-- 📚 Mastering **Machine Learning** algorithms
-- 🔬 Working on data analysis projects
-- 💻 Building Python projects for data science
-- 📈 Contributing to open-source projects
+- Advancing expertise in machine learning algorithms and model optimization
+- Developing scalable data analysis solutions
+- Contributing to open-source machine learning projects
+- Staying current with advancements in AI/ML technologies
 
 ---
 
-## 💬 Let's Connect!
+## Professional Interests
 
-I'm always open to:
-- 🤝 Collaborating on Data Science projects
-- 💡 Discussing AI/ML concepts
-- 📧 Sharing knowledge and ideas
-- 🎓 Learning from the community
+I welcome opportunities for:
 
-Feel free to reach out to me on **LinkedIn**, **Twitter**, or **Email**!
+- **Collaboration** on Data Science and Machine Learning projects
+- **Knowledge Sharing** in AI/ML concepts and best practices
+- **Professional Development** through community engagement
+- **Research & Innovation** in emerging AI technologies
+
+Feel free to connect on **LinkedIn** or reach out via **Email** for professional inquiries.
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=0077B5&style=flat-square)
+
+**"Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee**
 
 </div>
-
-<p align="center">
-  <em>"The goal is to turn data into information, and information into insight." - W. Edwards Deming</em>
-</p>
-
----
-
-> **Note:** Update your LinkedIn, Twitter, Kaggle, and email links in the badges above to your actual profile URLs!

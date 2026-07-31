@@ -8,10 +8,10 @@
 
 <!-- Social badges -->
 <div>
-	<a href="https://www.linkedin.com/in/jawad-muzafar" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-	<a href="https://www.kaggle.com/jawadmuzafar" target="_blank">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)</a>
-	<a href="https://www.instagram.com/itxjawad56" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-	<a href="mailto:jawadalmani11@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-muzafar)
+	[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jawadmuzafar)
+	[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itxjawad56)
+	[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadalmani11@gmail.com)
 </div>
 
 </div>
@@ -20,7 +20,7 @@
 
 ## About
 
-Passionate Data Scientist and Machine Learning Engineer with a strong foundation in Python development and AI/ML technologies. I specialize in developing data-driven solutions and building intelligent systems that solve complex real-world problems. Currently focused on advancing expertise in machine learning algorithms, predictive analytics, and artificial intelligence applications.
+Passionate Data Scientist and Machine Learning Engineer with a strong foundation in Python development and AI/ML technologies. I specialize in developing data-driven solutions and building intelligent systems that solve real-world problems.
 
 **Key Interests:**
 - Machine Learning & Deep Learning
@@ -141,11 +141,11 @@ Feel free to connect on **LinkedIn** or reach out via **Email** for professional
 I'm open to collaborations, contract work, or full-time opportunities.
 
 <div align="center">
-	<a href="mailto:jawadalmani11@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-	<a href="https://www.linkedin.com/in/jawad-muzafar" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-	<a href="https://github.com/Jawad-Muzafar" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-	<a href="https://www.kaggle.com/jawadmuzafar" target="_blank">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)</a>
-	<a href="https://www.instagram.com/itxjawad56" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+	[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadalmani11@gmail.com)
+	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-muzafar)
+	[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jawad-Muzafar)
+	[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jawadmuzafar)
+	[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itxjawad56)
 </div>
 
 <p align="center">

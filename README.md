@@ -88,27 +88,7 @@ Passionate Data Scientist and Machine Learning Engineer with a strong foundation
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<table align="center">
-	<tr>
-		<td align="center">
-			![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jawad-Muzafar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-		</td>
-		<td align="center">
-			![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Muzafar&layout=compact&theme=tokyonight&hide_border=true)
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" align="center">
-			![Trophies](https://github-profile-trophy.vercel.app/?username=Jawad-Muzafar&theme=tokyonight&margin-w=15)
-		</td>
-	</tr>
-</table>
-
-<div align="center">
-![Followers](https://img.shields.io/github/followers/Jawad-Muzafar?label=Followers&style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=0077B5&style=flat-square)
-</div>
+![Followers](https://img.shields.io/github/followers/Jawad-Muzafar?label=Followers&style=flat-square) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=0077B5&style=flat-square)
 
 </div>
 

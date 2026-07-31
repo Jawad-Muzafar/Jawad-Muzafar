@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jawad Muzafar Khan</h1>
 <h3 align="center">AI Engineer & Data Scientist | Machine Learning · Deep Learning · LLMs · Python</h3>
+
 <br>
 
 ## 💫 About Me
 
-I'm a **Data Scientist** and **Machine Learning / AI Engineer** who builds practical, data-driven solutions. I work on data analysis, predictive modeling, and end-to-end AI systems that solve real problems.
+I'm a **Data Scientist** and **Machine Learning / AI Engineer** who builds practical, data-driven solutions. I work on data analysis, predictive modeling, and end-to-end AI systems that solve real problems. I enjoy learning new tools and sharing projects that demonstrate applied machine learning.
 
 <br>
 
@@ -44,7 +45,7 @@ I'm a **Data Scientist** and **Machine Learning / AI Engineer** who builds pract
 
 ## 📌 Featured Projects
 
-- 🔗 **[Data Visualization](https://github.com/Jawad-Muzafar/Data-Visualization-)** — Collection of data visualizations using Matplotlib, including line charts, bar graphs, scatter plots, and custom charts.
+- 🔗 **[Data Visualization](https://github.com/Jawad-Muzafar/Data-Visualization-)** — Collection of data visualizations using Matplotlib, including line charts, bar graphs, scatter plots, and custom statistical plots.
 - 🔗 **[EDA (Exploratory Data Analysis)](https://github.com/Jawad-Muzafar/EDA)** — Exploratory data analysis project covering core variable usage and fundamental data analysis concepts.
 - 🔗 **[FastAPI Project](https://github.com/Jawad-Muzafar/Fastapi)** — My first REST API built with FastAPI, featuring endpoints for searching records by ID, updating data, and handling optional fields.
 
@@ -58,9 +59,7 @@ I'm a **Data Scientist** and **Machine Learning / AI Engineer** who builds pract
 
 ## 📅 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawad-Muzafar&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+![](https://ghchart.rshah.org/39d353/Jawad-Muzafar)
 
 ### ✍️ Random Dev Quote
 

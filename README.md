@@ -1,145 +1,61 @@
-<div align="center">
+# Muhammad  Jawad Muzafar khan
 
-# Muhammad Jawad Muzafar Khan
+**Keywords:** AI Engineer: Machine Learning, Deep Learning, LLMs, Python
 
-**Data Science & AI/ML Engineer | Python Developer | Machine Learning Specialist**
+# 💫 About Me
 
-<br />
+I am a Data Scientist and Machine Learning / AI Engineer who builds practical, data-driven solutions. I work on data analysis, predictive modeling, and end-to-end AI systems that solve real problems. I enjoy learning new tools and sharing projects that demonstrate applied machine learning.
 
-<!-- Social badges -->
-<div>
-	<a href="https://www.linkedin.com/in/jawad-muzafar" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-	<a href="https://www.kaggle.com/jawadmuzafar" target="_blank">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)</a>
-	<a href="https://www.instagram.com/itxjawad56" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-	<a href="mailto:jawadalmani11@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</div>
+## 🎓 Education
 
-</div>
+- **University of Lahore** — Bachelor in Data Science
+	- Location: Lahore, Pakistan
+	- Degree: Bachelor of Science in Data Science
+	- Notes: Relevant coursework — Machine Learning, Statistics, Data Mining, Data Visualization
 
----
+## 🌐 Socials
 
-## About
+- [Instagram](https://instagram.com/itxjawad56) · [LinkedIn](https://linkedin.com/in/jawad-muzafar) · [Email](mailto:jawadalmani11@gmail.com) · [GitHub](https://github.com/Jawad-Muzafar) · [Kaggle](https://www.kaggle.com/jawadmuzafar)
 
-Passionate Data Scientist and Machine Learning Engineer with a strong foundation in Python development and AI/ML technologies. I specialize in developing data-driven solutions and building intelligent systems that solve complex real-world problems. Currently focused on advancing expertise in machine learning algorithms, predictive analytics, and artificial intelligence applications.
+## 📚 Table of Contents
 
-**Key Interests:**
-- Machine Learning & Deep Learning
-- Data Analysis & Visualization
-- Artificial Intelligence Applications
-- Open-Source Contribution
+- About Me
+- Tech Stack
+- Projects
+- GitHub Stats
+- Contact
 
-**Location:** Pakistan 🇵🇰
+## 💻 Tech Stack
 
----
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-## ✨ Highlights
+## 🚀 Projects
 
-- Built end-to-end ML pipelines for classification and forecasting problems, delivering production-ready models with monitoring and CI/CD integration.
-- Published multiple Kaggle notebooks with reproducible experiments and public datasets (see profile above).
-- Strong foundation in feature engineering, model interpretability, and deploying models as APIs.
+- Browse my repositories and highlights on GitHub: https://github.com/Jawad-Muzafar
+- (Tip) Add a short list of featured projects here with one-line descriptions and links.
 
----
+## 📊 GitHub Stats
 
-## 🛠️ Skills
+![](https://github-readme-stats.shion.dev/api?username=Jawad-Muzafar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<div align="center">
-  
-	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-	![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-	![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  
-	<br />
+![](https://streak-stats.demolab.com/?user=Jawad-Muzafar&theme=dark&hide_border=false)
 
-	![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-	![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-	![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-	![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
-	<br />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jawad-Muzafar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-	![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-	![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🏆 GitHub Trophies
 
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Jawad-Muzafar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Jawad-Muzafar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## Technical Proficiency
+[![](https://komarev.com/ghpvc/?username=Jawad-Muzafar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Data Science & ML Libraries:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Development Tools:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-![Followers](https://img.shields.io/github/followers/Jawad-Muzafar?label=Followers&style=flat-square) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=0077B5&style=flat-square)
-
-</div>
-
----
-
-## Current Focus
-
-- Advancing expertise in machine learning algorithms and model optimization
-- Developing scalable data analysis solutions
-- Contributing to open-source machine learning projects
-- Staying current with advancements in AI/ML technologies
-
----
-
-## Professional Interests
-
-I welcome opportunities for:
-
-- **Collaboration** on Data Science and Machine Learning projects
-- **Knowledge Sharing** in AI/ML concepts and best practices
-- **Professional Development** through community engagement
-- **Research & Innovation** in emerging AI technologies
-
-Feel free to connect on **LinkedIn** or reach out via **Email** for professional inquiries.
-
----
-
-## 📫 Contact
-
-I'm open to collaborations, contract work, or full-time opportunities.
-
-<div align="center">
-	<a href="mailto:jawadalmani11@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-	<a href="https://www.linkedin.com/in/jawad-muzafar" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-	<a href="https://github.com/Jawad-Muzafar" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-	<a href="https://www.kaggle.com/jawadmuzafar" target="_blank">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)</a>
-	<a href="https://www.instagram.com/itxjawad56" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-</div>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=0077B5&style=flat-square" alt="profile views" />
-</p>
-
-<div align="center">
-	![Available](https://img.shields.io/badge/Available-Open%20to%20Work-brightgreen?style=flat-square&logo=google)
-	&nbsp;
-	![Contact](https://img.shields.io/badge/Response-Usually%20within%2024%20hrs-blue?style=flat-square)
-</div>
-
-<br />
-
-> _"Data is a precious thing and will last longer than the systems themselves."_
-
-<p align="right">Last updated: 2026-07-31</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

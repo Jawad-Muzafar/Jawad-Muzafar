@@ -42,17 +42,25 @@ Passionate Data Scientist and Machine Learning Engineer with a strong foundation
 
 ## 🛠️ Skills
 
-<div align="left">
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  
+	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+	![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  
+	<br />
+
+	![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+	![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+	![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+	![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+	<br />
+
+	![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+	![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
@@ -81,8 +89,26 @@ Passionate Data Scientist and Machine Learning Engineer with a strong foundation
 
 <div align="center">
 
+<table align="center">
+	<tr>
+		<td align="center">
+			![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jawad-Muzafar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+		</td>
+		<td align="center">
+			![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Muzafar&layout=compact&theme=tokyonight&hide_border=true)
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			![Trophies](https://github-profile-trophy.vercel.app/?username=Jawad-Muzafar&theme=tokyonight&margin-w=15)
+		</td>
+	</tr>
+</table>
+
+<div align="center">
 ![Followers](https://img.shields.io/github/followers/Jawad-Muzafar?label=Followers&style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jawad-Muzafar&color=0077B5&style=flat-square)
+</div>
 
 </div>
 

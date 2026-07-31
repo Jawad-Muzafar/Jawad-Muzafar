@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-I am a Data Scientist and Machine Learning / AI Engineer who builds practical, data-driven solutions. I work on data analysis, predictive modeling, and end-to-end AI systems that solve real problems. I enjoy learning new tools and sharing projects that demonstrate applied machine learning.
+I am a Data Scientist and Machine Learning / AI Engineer who builds practical, data-driven solutions. I work on data analysis, predictive modeling, and end-to-end AI systems that solve real problem[...]
 
 ## 🎓 Education
 
@@ -15,7 +15,9 @@ I am a Data Scientist and Machine Learning / AI Engineer who builds practical, d
 
 ## 🌐 Socials
 
-- [Instagram](https://instagram.com/itxjawad56) · [LinkedIn](https://linkedin.com/in/jawad-muzafar) · [Email](mailto:jawadalmani11@gmail.com) · [GitHub](https://github.com/Jawad-Muzafar) · [Kaggle](https://www.kaggle.com/jawadmuzafar)
+[![Instagram](https://img.shields.io/badge/Instagram-@itxjawad56-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itxjawad56) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad--Muzafar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-muzafar) [![Email](https://img.shields.io/badge/Email-jawadalmani11%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jawadalmani11@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Jawad--Muzafar-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jawad-Muzafar) [![Kaggle](https://img.shields.io/badge/Kaggle-Jawad--Muzafar-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/Jawad-Muzafar)
+
+**Current commit:** cd3f929b311a6d96ae0a11b2fe55f54c1db0de11
 
 ## 📚 Table of Contents
 
@@ -27,7 +29,7 @@ I am a Data Scientist and Machine Learning / AI Engineer who builds practical, d
 
 ## 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoCol[...]
 
 ## 🚀 Projects
 

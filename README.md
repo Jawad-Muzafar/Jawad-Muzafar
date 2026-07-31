@@ -32,6 +32,13 @@ I’m a Data Science and AI/ML Engineer with a strong foundation in Python devel
 
 ---
 
+## Education
+
+**University of Lahore**  
+**BS in Data Science**
+
+---
+
 ## Highlights
 
 - Built end-to-end ML pipelines for classification and forecasting problems.
